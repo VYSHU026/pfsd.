@@ -1,2 +1,2 @@
-print vaishu
-print(hello)
+print("vaishu")
+print("hello")
